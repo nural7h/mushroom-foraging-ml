@@ -48,4 +48,4 @@ The following components are included:
 
 1. Clone the repository or download the notebook and data manually:
    ```bash
-   git clone https://github.com/your-username/mushroom-classification.git
+   git clone https://github.com/nural7h/mushroom-foraging-ml
